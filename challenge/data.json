@@ -1,0 +1,55 @@
+let cars = `[{
+    "img":"https://cdn.audi.at/media/Kwc_Box_MetaTagsContent_OpenGraphImage_Component/56843-metaTags-ogImage/dh-1800-23ade3/c50bf459/1642504964/1920x1080-AA5_SB_191007_OE.jpg",
+    "name":"Audi A5",
+    "year":"2018",
+    "color":"Silver",
+    "price":"40k"
+},{
+    "img":"https://stimg.cardekho.com/images/carexteriorimages/930x620/Audi/Audi-A8-2019/6722/1544785682176/front-left-side-47.jpg",
+    "name":"Audi A8",
+    "year":"2020",
+    "color":"Black",
+    "price":"60k"
+},{
+    "img":"https://cdn.audi.at/media/Kwc_Box_MetaTagsContent_OpenGraphImage_Component/56843-metaTags-ogImage/dh-1800-23ade3/c50bf459/1642504964/1920x1080-AA5_SB_191007_OE.jpg",
+    "name":"Audi A5",
+    "year":"2018",
+    "color":"silver",
+    "price":"40k"
+},{
+    "img":"https://cdn.audi.at/media/Kwc_Box_MetaTagsContent_OpenGraphImage_Component/56843-metaTags-ogImage/dh-1800-23ade3/c50bf459/1642504964/1920x1080-AA5_SB_191007_OE.jpg",
+    "name":"Audi A5",
+    "year":"2018",
+    "color":"silver",
+    "price":"40k"
+},{
+    "img":"https://cdn.audi.at/media/Kwc_Box_MetaTagsContent_OpenGraphImage_Component/56843-metaTags-ogImage/dh-1800-23ade3/c50bf459/1642504964/1920x1080-AA5_SB_191007_OE.jpg",
+    "name":"Audi A5",
+    "year":"2018",
+    "color":"silver",
+    "price":"40k"
+},{
+    "img":"https://cdn.audi.at/media/Kwc_Box_MetaTagsContent_OpenGraphImage_Component/56843-metaTags-ogImage/dh-1800-23ade3/c50bf459/1642504964/1920x1080-AA5_SB_191007_OE.jpg",
+    "name":"Audi A5",
+    "year":"2018",
+    "color":"silver",
+    "price":"40k"
+},{
+    "img":"https://cdn.audi.at/media/Kwc_Box_MetaTagsContent_OpenGraphImage_Component/56843-metaTags-ogImage/dh-1800-23ade3/c50bf459/1642504964/1920x1080-AA5_SB_191007_OE.jpg",
+    "name":"Audi A5",
+    "year":"2018",
+    "color":"silver",
+    "price":"40k"
+},{
+    "img":"https://cdn.audi.at/media/Kwc_Box_MetaTagsContent_OpenGraphImage_Component/56843-metaTags-ogImage/dh-1800-23ade3/c50bf459/1642504964/1920x1080-AA5_SB_191007_OE.jpg",
+    "name":"Audi A5",
+    "year":"2018",
+    "color":"silver",
+    "price":"40k"
+},{
+    "img":"https://cdn.audi.at/media/Kwc_Box_MetaTagsContent_OpenGraphImage_Component/56843-metaTags-ogImage/dh-1800-23ade3/c50bf459/1642504964/1920x1080-AA5_SB_191007_OE.jpg",
+    "name":"Audi A5",
+    "year":"2018",
+    "color":"silver",
+    "price":"40k"
+}]`
