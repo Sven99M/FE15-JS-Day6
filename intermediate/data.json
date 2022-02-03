@@ -14,12 +14,12 @@ let employee = `[{
         "salary": "60k"
     },{
 
-        " ID": "3",
+        "ID": "3",
         "fName": "Sasa",
         "lName": "Jankovic",
-        "Email address": "sasa.jankovic@gmail.com",
-        "Job Title": "Mediatechnician",
-        "Salary": "30k"
+        "email": "sasa.jankovic@gmail.com",
+        "job": "Mediatechnician",
+        "salary": "30k"
     },
     {
         "ID": "4",
@@ -46,11 +46,11 @@ let employee = `[{
         "salary": "30k"
     },
     {
-        " ID": "7",
+        "ID": "7",
         "fName": "Emu",
         "lName": "Zimmerman",
-        "Email address": "emu.zimmer@gmail.com",
-        "Job Title": "Streetworker",
+        "email": "emu.zimmer@gmail.com",
+        "job": "Streetworker",
         "salary": "70k"
     },
     {
