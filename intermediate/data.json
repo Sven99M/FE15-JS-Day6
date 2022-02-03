@@ -1,0 +1,79 @@
+var employee = `[{
+        "ID": "1",
+        "fName": "Sven",
+        "lName": "Moser",
+        "email": "sven.moser@gmail.com",
+        "job": "Front-End WebDeveloper",
+        "salary": "40k"
+    }, {
+        "ID": "2",
+        "fName": "Stephan",
+        "lName": "Reindl",
+        "email": "steph.reindl@gmail.com",
+        "job": "Full-Stack WebDeveloper",
+        "salary": "60k"
+    } {
+
+        " ID": "3",
+        "fName": "Sasa",
+        "lName": "Jankovic",
+        "Email address": "sasa.jankovic@gmail.com",
+        "Job Title": "Mediatechnician",
+        "Salary": "30k"
+    },
+    {
+        "ID": "4",
+        "fName": "Mostafa",
+        "lName": "El Sanhoury",
+        "email": "mostafa.san@gmail.com",
+        "job": "Pilot",
+        "salary": "80k"
+    },
+    {
+        "ID": "5",
+        "fName": "Sai",
+        "lName": "Unger",
+        "email": "sai.unger@gmail.com",
+        "job": "Digital Illustrator",
+        "salary": "65k"
+    },
+    {
+        "ID": "6",
+        "fName": "Florian",
+        "lName": "Gröger",
+        "email": "flo.groe@gmail.com",
+        "job": "Woodworker",
+        "salary": "30k"
+    },
+    {
+        " ID": "7",
+        "fName": "Emu",
+        "lName": "Zimmerman",
+        "Email address": "emu.zimmer@gmail.com",
+        "Job Title": "Streetworker",
+        "salary": "70k"
+    },
+    {
+        "ID": "8",
+        "fName": "Lukas",
+        "lName": "Houszka",
+        "email": "lukas.houszka@gmail.com",
+        "job": "Streettechnician",
+        "salary": "90k"
+    },
+    {
+        "ID": "9",
+        "fName": "Niklas",
+        "lName": "Wiplinger",
+        "email": "niklas.wiplinger@gmail.com",
+        "job": "Architect",
+        "salary": "100k"
+    },
+    {
+        "ID": "10",
+        "fName": "Iris",
+        "lName": "Reis",
+        "email": "iris.reis@gmail.com",
+        "job": "Psychologist",
+        "salary": "120k"
+        }]`;
