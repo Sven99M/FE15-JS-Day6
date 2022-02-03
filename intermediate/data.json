@@ -1,4 +1,4 @@
-var employee = `[{
+let employee = `[{
         "ID": "1",
         "fName": "Sven",
         "lName": "Moser",
@@ -12,7 +12,7 @@ var employee = `[{
         "email": "steph.reindl@gmail.com",
         "job": "Full-Stack WebDeveloper",
         "salary": "60k"
-    } {
+    },{
 
         " ID": "3",
         "fName": "Sasa",
