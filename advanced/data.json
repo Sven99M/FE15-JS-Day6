@@ -1,0 +1,26 @@
+let book = `[
+    {"title": "Javascript for Beginners",
+    "author": "Tim Berner Lee",
+    "read": false,
+    "img": "https://images-na.ssl-images-amazon.com/images/I/71D633RBgQL.jpg"
+   },
+   {"title": "HTML for beginners",
+    "author": "Tim Berner Lee",
+    "read": true,
+    "img": "https://images-na.ssl-images-amazon.com/images/I/51jmcHmXVqL._SX258_BO1,204,203,200_.jpg"
+   },
+   {"title": "Arsene Lupin",
+    "author": "Maurice Leblanc",
+    "read": true,
+    "img":"https://m.media-amazon.com/images/I/51F-G+aXj5L.jpg"
+   },
+   {"title": "Playbook",
+    "author": "Barney Stinson",
+    "read": true,
+    "img":"https://images-na.ssl-images-amazon.com/images/I/81mWzlhlZcL.jpg"
+   },
+   {"title": "James Bond",
+    "author": "Siegfried Tesche",
+    "read": false, 
+    "img":"https://images-na.ssl-images-amazon.com/images/I/41nKDzYjqoL._SX373_BO1,204,203,200_.jpg"
+   }]`
