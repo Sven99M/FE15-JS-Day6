@@ -1,0 +1,11 @@
+let array = `[{
+    "name": "John",
+    "age": 30,
+    "img": "https://cdn.pixabay.com/photo/2022/01/20/14/16/ladybug-6952412__480.jpg",
+    "jobTitle": "IT"
+}, {
+    "name": "Mary",
+    "age": 22,
+    "img": "https://cdn.pixabay.com/photo/2021/08/16/22/04/nature-6551466__340.jpg", 
+    "jobTitle" : "Software developer"
+}]`;
